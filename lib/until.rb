@@ -4,5 +4,8 @@ def using_until
         
   while levitation_force < 10
     
+    puts 
+    
+   end
 end
 
