@@ -4,7 +4,7 @@ def using_until
         
   while levitation_force < 10
     
-    puts 
+    puts "Wingardium Leviosa"
     
    end
 end
